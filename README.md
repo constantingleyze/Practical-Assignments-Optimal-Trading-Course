@@ -1,6 +1,6 @@
 # Optimal Trading & Machine Learning Course - Practical Assignments Repository
 
-This repository contains the 4 practical assignments for the *Optimal Trading & Machine Learning* course, offered within the Master's program in Probability and Finance (DEA El Karoui), taught by Charles-Albert Lehalle (lectures) and Sophie Laruelle (tutorials).
+This repository contains the 4 practical assignments (PA) for the *Optimal Trading & Machine Learning* course, offered within the Master's program in Probability and Finance (DEA El Karoui), taught by Charles-Albert Lehalle (lectures) and Sophie Laruelle (tutorials).
 
 These assignments focus on high-frequency transaction data for 4 French stocks (Sanofi, Total, Bouygues, LVMH), three American stocks (Google, Amazon, Apple), and three Japanese stocks (Canon, Panasonic, Sony).
 
@@ -17,10 +17,10 @@ Each `DataFrame` contains all the transactions for the year 2011 for the given a
 
 ### The 4 assignments are as follows:
 
-- **TP1:** Intraday Curves and Relationships Between Daily Variables
-- **TP2:** Signature Plot, Epps Effect, and Link Between Spread and Volatility per Trade
-- **TP3:** Stochastic Approximation Algorithms Applied to Optimal Execution
-- **TP4:** Fillrates and Market Making
+- **PA1:** Intraday Curves and Relationships Between Daily Variables
+- **PA2:** Signature Plot, Epps Effect, and Link Between Spread and Volatility per Trade
+- **PA3:** Stochastic Approximation Algorithms Applied to Optimal Execution
+- **PA4:** Fillrates and Market Making
 
 ### Notes:
 - Mme Laruelle’s course material is attached in the TP3 folder, as it is necessary to read it in order to understand the code implementation.
